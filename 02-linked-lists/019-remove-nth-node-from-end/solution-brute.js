@@ -1,0 +1,1 @@
+// TODO: implementar solución "bruta" para eliminar el n-ésimo nodo desde el final

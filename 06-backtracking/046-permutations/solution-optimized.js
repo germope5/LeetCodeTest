@@ -1,0 +1,1 @@
+// TODO: Versión optimizada de permutaciones

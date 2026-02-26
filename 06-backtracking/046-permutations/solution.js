@@ -1,0 +1,1 @@
+// TODO: Implementar generación de permutaciones
